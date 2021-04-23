@@ -3,7 +3,7 @@ title: React Table component
 components: Table, TableBody, TableCell, TableContainer, TableFooter, TableHead, TablePagination, TableRow, TableSortLabel
 ---
 
-# Table
+# Tables
 
 <p class="description">Tables display sets of data. They can be fully customized.</p>
 
